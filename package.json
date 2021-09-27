@@ -1,0 +1,22 @@
+{
+  "name": "tek-yaprak",
+  "version": "1.0.0",
+  "description": "\\",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmz2010/cruises.git"
+  },
+  "author": "Hamza Quliyev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmz2010/cruises/issues"
+  },
+  "homepage": "https://github.com/hmz2010/cruises#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
